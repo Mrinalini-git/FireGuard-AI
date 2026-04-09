@@ -1,20 +1,2 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/a67f5eb3-2b94-4668-ba13-ed79656b5ab9
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+FireGuard AI is a sophisticated CCTV extension designed to enhance traditional surveillance systems with real-time fire and smoke detection capabilities. By integrating advanced multimodal Large Language Models, specifically Gemini 1.5 Flash, the system moves beyond basic motion detection to provide contextual intelligence. It distinguishes hazardous fire and smoke from benign visual elements such as steam, reflections, or lighting conditions.
+The system generates detailed warning reports including the source, location, and severity of potential hazards, enabling faster and more accurate emergency response. By combining real-time video analysis with AI-driven reasoning, FireGuard AI significantly improves reliability and reduces false alarms in surveillance environments.
