@@ -1,0 +1,5 @@
+{
+  "name": "FireGuard AI",
+  "description": "Advanced CCTV extension using vision models to detect fire and smoke, providing detailed source and location reports.",
+  "requestFramePermissions": ["camera"]
+}
